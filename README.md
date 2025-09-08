@@ -81,8 +81,7 @@
   </div>
 
   <script>
-    const apiKey = "YOUR_API_KEY"; // 🔑 Replace with your Twelve Data API key
-
+    const apiKey = "551fc8494a0c48ceac32b3a5fc7220fa"; // 🔑 Replace with your Twelve Data API key
     // ------------------ PRICE + % CHANGE ------------------
     async function fetchQuote(symbol, elementId) {
       try {
